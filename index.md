@@ -3,9 +3,33 @@
 В околиці Вупперталя є багато можливостей гарно провести час і відволіктись від щоденних турбот.
 
 ## За хорошої погоди
-Цікаві місця сортоваці по віддалі від міста
 
-### Зоопарк міста
+### Північний парк
+
+![Image](https://www.wuppertal.de/tourismus-freizeit/gruenes_wuppertal/parkanlagen/nordpark.php.media/277683/Nordpark-Narzissen_2.jpg.scaled/381434d39433761f63676ddd476ef645.jpg)
+
+вимова "норд парк", німецькою: nordpark
+
+**Що цікавого**: 
+- Прогулятися парком
+- Погодувати оленів та косуль
+- Для дітей великий ігровий майданчик
+- Поле для футболу та баскетболу
+- Гарна панорама міста (Skywalk)
+
+**Де**: Вупперталь, район Віхлінгаузен (wichlinghausen)
+
+**Ціна**: 
+Безкоштовно
+Корм для оленів можна придбати за Євро в автоматі
+
+**Як доїхати**: 
+- Автобусні лініі 612, 332, ... схему можна знайти [тут](https://www.wuppertal.de/tourismus-freizeit/gruenes_wuppertal/parkanlagen/nordpark.php.media/393912/oevi_karte.jpg.scaled/b0b322d3325490db4ba628395b4760e2.jpg)
+
+
+**Додаткова інформація**: 
+- [Nord Park](https://www.wuppertal.de/tourismus-freizeit/gruenes_wuppertal/parkanlagen/nordpark.php)
+
 
 ### Замок Бург
 
