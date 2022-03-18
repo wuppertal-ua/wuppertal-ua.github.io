@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# Корисна інформація по Вупперталю та околицях для українців
 
-You can use the [editor on GitHub](https://github.com/wuppertal-ua/wuppertal-ua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+В околиці Вупперталя є багато можливостей гарно провести час і відволіктись від щоденних турбот.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## За хорошої погоди
+Цікаві місця сортоваці по віддалі від міста
 
-### Markdown
+### Зоопарк міста
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Замок Бург
 
-```markdown
-Syntax highlighted code block
+вимова "шльос бург", німецькою: Schloss Burg
 
-# Header 1
-## Header 2
-### Header 3
+![Image](https://www.schlossburg.de/fileadmin/user_upload/Schloss_Burg_Ritterspiele_2016_Web_Malis_0128.jpg)
 
-- Bulleted
-- List
+**Що цікавого**: 
+- Відвідати середньовічний замок (додаткова оплата при відвідинах замкових приміщень)
+- Завітати до сувенірного магазину 
+- Лицарські ігри (26-29 травня), різноманітні фестивалі
+- Проїзд на [канатній дорозі](https://www.schlossburg.de/information/seilbahn)
 
-1. Numbered
-2. List
+**Де**: В місті Золіген
 
-**Bold** and _Italic_ and `Code` text
+**Для кого**: Для всієї сімʼї
 
-[Link](url) and ![Image](src)
-```
+**Скільки часу**: Від двох годин до половини дня
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Ціна**: 
+Двір замку та околиці безкоштовно. Вхід у замок та екскерсіі за додаткову плату
 
-### Jekyll Themes
+**Як доїхати**: 
+- На авто: поряд з замком є платні парковки
+- Автобус 683. Спланувати можна [тут](http://efa.vrr.de/vrr/XSLT_TRIP_REQUEST2?language=de&sessionID=0&place_destination=Solingen&name_destination=Burg%20Brücke&type_destination=stop)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuppertal-ua/wuppertal-ua.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Додаткова інформація**: 
+- [Schloss Burg](https://www.schlossburg.de/start)
+- [Календар](https://www.schlossburg.de/termine-news/terminkalender)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Мюнгстерський міст
+
+вимова "мюнгстенер брюке", німецькою: Müngstener Brücke
+
+![Image](https://www.solingen.de/c1258162003324af/files/muengstener-bruecke-germany_300x225_urheber-dennis-pikarek-fotolia-com.jpg/$file/muengstener-bruecke-germany_300x225_urheber-dennis-pikarek-fotolia-com.jpg?openelement)
+
+**Що цікавого**: 
+- Подивитись на міст
+- Погуляти по лісу довкола мосту
+- Ловити раків у річці Вуппер
+- Переправитись на ручній дрезині через річку
+- Зіграти міні гольф
+- Пройтися пішки до Замку Берг (плануйте додатково пів дня)
+
+**Де**: В місті Золіген
+
+**Для кого**: Для всієї сімʼї
+
+**Скільки часу**: Від двох годин до половини дня
+
+**Ціна**: 
+парк бескоштовно, доїзд на громадському транспорті може коштувати грошей, через те, що це дозвілля
+
+**Як доїхати**: 
+- Найпростіше на авто. Поряд з парком є багато місць для паркування
+- Від вуппертальського зоопарку автобусом [605](https://www.wsw-online.de/wsw-mobil/mehr-service/freizeit-tipps/freizeitlinie-605/). Нажаль тільки на свята:
+  - 26 травня 2022
+  - 5 та 6 червня 2022
+  - 29 та 30 жовтня 2022 
+
+**Додаткова інформація**: 
+- [Müngstener Brücke](https://www.solingen.de/marketing/inhalt/muengstener-bruecke-und-brueckenpark-muengsten)
+
