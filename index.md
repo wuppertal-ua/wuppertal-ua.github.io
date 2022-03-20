@@ -4,11 +4,38 @@
 
 ## За хорошої погоди
 
-### Північний парк
+### Північна залізнична траса / Nordbahntrasse
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nordbahntrasse_01.jpg/1920px-Nordbahntrasse_01.jpg)
+
+вимова "норд баан трассе", німецькою: Nordbahntrasse
+
+**Що цікавого**: 
+- Колишня залізнична дорога, яку тепер перетворено на місце для прогулянки
+- Покататись на велосипеді або роликах
+  - велосипед можна взяти безкоштовно напрокат біля вокзалу Мірке (Mirker Bahnhof). Потрібно заповнити формуляр і залишити 20 Євро заклад. Ось тут є [розклад роботи](https://snowcloud.eu/index.php/apps/calendar/p/BZCUKIRFBAOYA49D/dayGridMonth/now)
+- Завітати до кафе 
+- Проїхатись на дрезині
+
+**Де**: Вупперталь, простягається по всьому місту
+
+**Ціна**: 
+Безкоштовно
+
+**Як доїхати**: 
+- Автобусні лініі 612, 332, ... схему можна знайти [тут](https://www.wuppertal.de/tourismus-freizeit/gruenes_wuppertal/parkanlagen/nordpark.php.media/393912/oevi_karte.jpg.scaled/b0b322d3325490db4ba628395b4760e2.jpg)
+
+
+**Додаткова інформація**: 
+- [Nordbahntrasse](https://en.wuppertalbewegung.de)
+  - [карта траси](https://upload.wikimedia.org/wikipedia/commons/e/ed/Plan_Nordbahntrasse_2017.jpg)
+- [Utopiastadt](https://www.utopiastadt.eu)
+
+### Північний парк / Nordpark
 
 ![Image](https://www.wuppertal.de/tourismus-freizeit/gruenes_wuppertal/parkanlagen/nordpark.php.media/277683/Nordpark-Narzissen_2.jpg.scaled/381434d39433761f63676ddd476ef645.jpg)
 
-вимова "норд парк", німецькою: nordpark
+вимова "норд парк", німецькою: Nordpark
 
 **Що цікавого**: 
 - Прогулятися парком
@@ -30,7 +57,7 @@
 - [Nord Park](https://www.wuppertal.de/tourismus-freizeit/gruenes_wuppertal/parkanlagen/nordpark.php)
 
 
-### Замок Бург
+### Замок Бург / Schloss Burg
 
 вимова "шльос бург", німецькою: Schloss Burg
 
@@ -61,7 +88,7 @@
 
 
 
-### Мюнгстерський міст
+### Мюнгстерський міст / Müngstener Brücke
 
 вимова "мюнгстенер брюке", німецькою: Müngstener Brücke
 
